@@ -1,6 +1,5 @@
 # High Performance Computing for Option Pricing
 
-======================
 
 This project aims to develop a computational model for pricing options using finite difference methods. The project involves the following components:
 
