@@ -1,0 +1,17 @@
+(executable
+ (name main)
+ (public_name options_pricing)
+ (libraries owl lacaml))
+
+(library
+ (name options)
+ (public_name options))
+
+(library
+ (name pricing)
+ (public_name pricing)
+ (libraries owl lacaml))
+
+(library
+ (name utils)
+ (public_name utils))
